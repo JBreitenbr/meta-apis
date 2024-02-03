@@ -1,0 +1,20 @@
+Admin
+Name :Bistroadmin
+Password: AtSwoOfis
+
+Customers
+Name: EleanorRigby
+Password: AtSwo777
+
+Name: MaggieMcGill
+Password: AtSwo888
+
+Delivery Crew
+Name: Tick
+Password: IniA8gg7
+
+Name: Trick
+Password: IniA8gg8
+
+Name: Track
+Password: IniA8gg9
