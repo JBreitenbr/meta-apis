@@ -116,7 +116,7 @@ def manager_order_assign_crew(request, pk):
             if request.method == "PATCH":
                 order.delivery_crew = user
             if request.method == "DELETE":
-                order.deliverycrew = None
+                order.delivery_crew = None
             order.save()
             return Response({'messages': 'ok'})
 
