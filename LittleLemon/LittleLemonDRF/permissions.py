@@ -14,4 +14,4 @@ class DeliveryCrewPermissions(permissions.BasePermission):
     edit_methods = ("PUT", "PATCH")
 
     def has_permission(self, request, view):
-        return request.user.groups.filter(name='Delivery crew').exists()
+        return request.user.groups.filter(name='Delivery Crew').exists()
