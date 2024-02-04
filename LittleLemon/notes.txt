@@ -9,6 +9,9 @@ Password: AtSwo777
 Name: MaggieMcGill
 Password: AtSwo888
 
+Name: ScarletBegonias
+Password: AtSwo999
+
 Delivery Crew
 Name: Tick
 Password: IniA8gg7
