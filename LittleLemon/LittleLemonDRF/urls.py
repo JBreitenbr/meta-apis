@@ -16,12 +16,8 @@ urlpatterns = [
 
     path('crew/orders', views.CrewOrderList.as_view()),
     path('crew/orders/<int:pk>', views.crew_update_order),
-
-
-    #path('auth/', include('djoser.urls')),
-    #path('auth/', include('djoser.urls.authtoken')),
+    
     path('api-token-auth/', obtain_auth_token),
-
 
     path('groups/manager', views.ManagerList.as_view()),
     path('groups/manager/users', views.managers),
